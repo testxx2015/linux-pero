@@ -5,3 +5,7 @@ void main()
 	i++;	//pero v1.2
 	i++;
 }
+void update()
+{
+	//git peroozdero update 18.11.2015 10:36	
+}
